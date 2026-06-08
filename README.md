@@ -1,4 +1,4 @@
-# SQL_Retail_sale_ # 🛍️ SQL Retail Sales Analysis
+ # 🛍️ SQL Retail Sales Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data using SQL to uncover business insights and answer important business questions.
