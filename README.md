@@ -79,7 +79,7 @@ Created sales shifts:
 - Sales patterns by time shift were studied.
 
 ## 📁 Project Files
-- `main3.sql` → SQL queries for analysis  
+- `SQL Analysis` → SQL queries for analysis  
 - `Retail Sales Analysis.csv` → Dataset file  
 
 ## 🚀 How to Run the Project
